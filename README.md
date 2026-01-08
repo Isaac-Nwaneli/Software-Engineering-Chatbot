@@ -1,8 +1,8 @@
-# CSC-463 Copilot Agent - Comprehensive README
+# CSC Copilot Agent - Comprehensive README
 
 ## Authorship, AI Assistance, and External Tools 
 
-This repository was created as a final project for CSC‑463 at Oral Roberts University. The project team is responsible for the overall design of the agent, the selection of topics, the construction of the knowledge base, and the testing/evaluation process. 
+This repository was created as a final project for CSC at Oral Roberts University. The project team is responsible for the overall design of the agent, the selection of topics, the construction of the knowledge base, and the testing/evaluation process. 
 
 ### Use of Generative AI Tools 
 During development, the team used generative AI tools (such as online agents like Perplexity Comet and/or large language models like ChatGPT / Microsoft Copilot) in the following ways: 
